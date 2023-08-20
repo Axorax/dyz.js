@@ -1,0 +1,9 @@
+.github/
+.npmignore
+*.src.js
+package-lock.json
+node_modules/
+*.svg
+.gitignore
+*.src.cjs
+*test.js
